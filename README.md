@@ -1,16 +1,13 @@
-### Hi there 👋
+### favorite Docs
 
-<!--
-**morimorig3/morimorig3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [SOFT SKILLS ソフトウェア開発者の人生マニュアル](https://www.nikkeibp.co.jp/atclpubmkt/book/16/P51550/)
+* [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
+* [達人プログラマー](https://www.ohmsha.co.jp/book/9784274226298/)
+* [アジャイルサムライ−達人開発者への道](https://shop.ohmsha.co.jp/shopdetail/000000001901/)
+* [りあクト！ TypeScriptで始めるつらくないReact開発](https://oukayuka.booth.pm/)
+* [人蕩し術](https://www.jmca.jp/prod/11377)
 
-Here are some ideas to get you started:
+### contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Twitter](https://twitter.com/morimorig3)
+* [E-mail](mori.nto@outlook.jp)
