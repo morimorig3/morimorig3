@@ -5,9 +5,9 @@
 * [達人プログラマー](https://www.ohmsha.co.jp/book/9784274226298/)
 * [アジャイルサムライ−達人開発者への道](https://shop.ohmsha.co.jp/shopdetail/000000001901/)
 * [りあクト！ TypeScriptで始めるつらくないReact開発](https://oukayuka.booth.pm/)
-* [人蕩し術](https://www.jmca.jp/prod/11377)
+* [リファクタリング（第2版）](https://www.ohmsha.co.jp/book/9784274224546/)
 
 ### contacts
 
 * [Twitter](https://twitter.com/morimorig3)
-* [E-mail](mori.nto@outlook.jp)
+* [E-mail](mailto:mori.nto@outlook.jp)
