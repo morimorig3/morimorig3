@@ -9,5 +9,5 @@
 
 ### contacts
 
-* [Twitter](https://twitter.com/morimorig3)
+* [X](https://twitter.com/morimorig3)
 * [E-mail](mailto:mori.nto@outlook.jp)
